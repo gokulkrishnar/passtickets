@@ -1,12 +1,12 @@
 import React from "react";
-import _ from "lodash";
-import { hashHistory } from "react-router";
+//import _ from "lodash";
+//import { hashHistory } from "react-router";
 // import {Modal ,Button} from "react-bootstrap";
 
 class LandingPage extends React.Component {
-    constructor(props) {
-        super(props);
-    }
+    // constructor(props) {
+    //     super(props);
+    // }
     // componentWillMount() {
 
     //     if (!_.isEmpty(this.props.routes) && this.props.routes[1].path) {

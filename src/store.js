@@ -1,8 +1,8 @@
-import thunk from "redux-thunk";
+//import thunk from "redux-thunk";
 import { createStore, applyMiddleware } from "redux";
 import Logger from "redux-logger";
 import Reducers from "../src/combinedReducers";
-import RootSaga from "./Saga.Root";
+//import RootSaga from "./Saga.Root";
 import createSagaMiddleware from "redux-saga";
 const sagaMiddleware = createSagaMiddleware();
 
